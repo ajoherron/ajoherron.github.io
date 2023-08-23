@@ -18,6 +18,6 @@ A true gruddly puddler
 ======
 Riblet, griblet, hibbity scriblet
 
-![example_image](/images/headshot_cropped.JPG)
+<!-- #![example_image](/images/headshot_cropped.JPG) -->
 
-![example_image]({{ "/images/headshot_cropped.JPG" | relative_url )
+![example_image]({{ "/images/headshot_cropped.JPG" | relative_url }})
