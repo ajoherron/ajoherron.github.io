@@ -10,14 +10,8 @@ redirect_from:
 
 There has never been a taller, more handsome, smarter, or more personable man to walk the Earth. Count yourself lucky that you've found yourself on the best website in all of the internet's glory.
 
-Title 2
+A True Gruddly Puddler
 ======
-Meowth, that's right!
+If you think you've seen a good kitters, think again! Vlad is a king of string chasing, has set records for hours slept in a day, and is currently a voice coach for many of Hollywood's top actors and artists. Not to mention his extensive experience fitting perfectly in sinks.
 
-A true gruddly puddler
-======
-Riblet, griblet, hibbity scriblet
-
-<!-- #![example_image](/images/headshot_cropped.JPG) -->
-
-![example_image]({{ "/images/headshot_cropped.JPG" | relative_url }})
+![example_image]({{ "/images/vlad_sink.jpeg" | relative_url }})
