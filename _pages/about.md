@@ -14,6 +14,8 @@ Title 2
 ======
 Meowth, that's right!
 
-Title 3
+A true gruddly puddler
 ======
 Riblet, griblet, hibbity scriblet
+
+![example_image](/images/headshot_cropped.JPG)
