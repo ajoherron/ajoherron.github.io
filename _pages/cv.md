@@ -16,15 +16,19 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2023: Scientific Programmer @ the NASA Goddard Institute for Space Studies
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Research Engineering Intern @ Nuance Communications / Microsoft
+
+* February - April 2021: Remote Sensing Analyst @ Earthshot Labs
+
+* Summer 2020: Research Intern @ the NASA Goddard Institute for Space Studies
+
+* April 2020 - February 2021: Solar Physics Consultant @ Autonomous Solar Barge Propulsion Network LLC
+
+* Summer 2019: Research Intern @ the Lamont-Doherty Earth Observatory
+
+* Note: I also have prior experience working as a rowing coach (summer 2015, summer 2016, spring 2018), as well as restaurant experience (summer 2014)
   
 Technical Skills
 ======
