@@ -36,7 +36,7 @@ Dungeons and Dragons Nerd!
 ======
 Since 2019, I've been playing Dungeons and Dragons (5e) with a group of friends from college. I count myself very lucky to be able to see everyone weekly!
 
-<img src="{{ "/images/eberron.webp" | relative_url }}" alt="Map of Khorvaire (within Eberron)" width="300" height="300" class="centered-image">
+<img src="{{ "/images/eberron.pdf" | relative_url }}" alt="Eberron Party" width="300" height="300" class="centered-image">
 
 <!-- ## Locations of key files/directories
 
