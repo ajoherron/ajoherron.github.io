@@ -1,15 +1,12 @@
 ---
 title: "Masking Methane Pixels using Satellite Data"
 excerpt: "In Fall 2022 I worked with Orbio Earth - an exciting startup that's building methane emissions insights for energy assets across the Earth. For my capstone project, I built computer vision and statistical models that determined which pixels in an image contained methane. Ultimately, the output of these models was binary masks, which you can see in the below image."
-
-<link rel="stylesheet" href="styles.css">
-
-<div class="centered-image-container">
-  <img src='/images/capstone_project.JPG' alt='Capstone Project' class='centered-image'>
-</div>
-
 collection: portfolio
 ---
+
+<div style="text-align: center;">
+  ![Capstone Project](/images/capstone_project.JPG)
+</div>
 
 <!-- ---
 title: "Masking Methane Pixels using Satellite Data"
