@@ -18,7 +18,7 @@ redirect_from:
 
   .education-icon {
     margin-right: 10px;
-    width: 30px; /* Adjust this size as needed */
+    width: 100px; /* Adjust this size as needed */
     height: auto;
   }
 </style>
@@ -27,11 +27,17 @@ Education
 ======
 
 <div class="education-item">
-  <img class="education-icon" src="/images/duck_breast.jpeg" alt="Icon">
+  <img class="education-icon" src="/images/nyu_seal.png" alt="Icon">
   M.S. in Data Science, New York University, 2023
 </div>
 
-<!-- * M.S. in Data Science, New York University, 2023 -->
+<div class="education-item">
+  <img class="education-icon" src="/images/columbia_seal.jpeg" alt="Icon">
+  B.S. in Applied Physics, Columbia University, 2020
+</div>
+  * Heavyweight Rowing Team (elected Captain)
+  * Minor in History  
+
 * B.S. in Applied Physics, Columbia University, 2020
   * Heavyweight Rowing Team (elected Captain)
   * Minor in History
