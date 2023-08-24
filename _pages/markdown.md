@@ -13,6 +13,20 @@ Vlad is a king of string chasing, has set records for hours slept in a day, and 
 
 ![vlad_sink]({{ "/images/vlad_cropped.jpg" | relative_url }})
 
+Running (in circles)
+======
+The
+
+![manhattan_loop]({{ "/images/manhattan_loop.jpeg" | relative_url }})
+
+Amateur Chef
+======
+The
+
+Dungeons and Dragons Nerd!
+======
+The
+
 
 <!-- ## Locations of key files/directories
 
