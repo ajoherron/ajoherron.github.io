@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Masking Methane Pixels using Satellite Data"
+excerpt: "In Fall 2022 I worked with Orbio Earth - an exciting startup that's building methane emissions insights for energy assets across the Earth. For my capstone project, I built computer vision and statistical models that determined which pixels in an image contained methane. Ultimately, the output of these models were binary masks, which you can see in the below image."
+#excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

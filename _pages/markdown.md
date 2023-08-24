@@ -1,13 +1,18 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Fun Stuff"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-misc info
+Proud Cat Dad
+======
+Vlad is a king of string chasing, has set records for hours slept in a day, and is currently a voice coach for many of Hollywood's top actors and artists. Not to mention his extensive experience fitting perfectly in sinks.
+
+![vlad_sink]({{ "/images/vlad_cropped.jpg" | relative_url }})
+
 
 <!-- ## Locations of key files/directories
 
