@@ -4,9 +4,14 @@ excerpt: "In Fall 2022 I worked with Orbio Earth - an exciting startup that's bu
 collection: portfolio
 ---
 
-<div style="text-align: center;">
-  ![Capstone Project](/images/capstone_project.JPG)
+<div align="center">
+  <img src="/images/capstone_project.JPG" alt="Capstone Project">
 </div>
+
+
+<!-- <div style="text-align: center;">
+  ![Capstone Project](/images/capstone_project.JPG)
+</div> -->
 
 <!-- ---
 title: "Masking Methane Pixels using Satellite Data"
