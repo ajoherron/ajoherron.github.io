@@ -15,9 +15,11 @@ Vlad is a king of string chasing, has set records for hours slept in a day, and 
 
 Running (in circles)
 ======
-The
+I really enjoy running, and back in the day I ran some pretty long runs. The image below is the path I took around the perimeter of Manhattan in 2017 (34.58 miles in 5 hours and 17 seconds). I've also run an unorganized marathan around the perimeter of Manhattan (3 hours, 29 minutes, and 48 seconds for an average pace of 8:00 min/mile). More recently, I've been running much slower and much shorter distances in Central Park.
 
 ![manhattan_loop]({{ "/images/manhattan_loop.jpeg" | relative_url }})
+
+<img src="{{ "/images/manhattan_loop.jpeg" | relative_url }}" alt="Manhattan Loop" width="300" height="200">
 
 Amateur Chef
 ======
