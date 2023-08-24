@@ -28,12 +28,15 @@ I really enjoy running, and back in the day I ran some pretty long runs. The ima
 
 Amateur Chef
 ======
-The
+I'm a big fan of cooking, eating, and anything food related! I try to explore new recipes and restaurants often, and I think there are few better things than a good meal with good company. I think Tina Fey / Liz Lemon said it best: "I believe that all anyone really wants in this life is to sit in peace and eat a sandwich."
+
+<img src="{{ "/images/duck_breast.jpeg" | relative_url }}" alt="Christmas Duck Breast" width="300" height="300" class="centered-image">
 
 Dungeons and Dragons Nerd!
 ======
-The
+Since 2019, I've been playing Dungeons and Dragons (5e) with a group of friends from college. I count myself very lucky to be able to see everyone weekly!
 
+<img src="{{ "/images/eberron.jpeg" | relative_url }}" alt="Map of Khorvaire (within Eberron)" width="300" height="300" class="centered-image">
 
 <!-- ## Locations of key files/directories
 
