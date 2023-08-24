@@ -21,6 +21,10 @@ redirect_from:
     width: 100px; /* Adjust this size as needed */
     height: auto;
   }
+
+  .education-list {
+    margin-left: 40px; /* Adjust the indentation as needed */
+  }
 </style>
 
 Education
@@ -36,7 +40,7 @@ Education
   B.S. in Applied Physics, Columbia University, 2020
 </div>
 
-<ul>
+<ul class="education-list">
   <li>Heavyweight Rowing Team (elected Captain)</li>
   <li>Minor in History</li>
 </ul>
