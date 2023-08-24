@@ -27,12 +27,12 @@ Education
 ======
 
 <div class="education-item">
-  <img class="education-icon" src="/images/nyu_seal.png" alt="Icon">
+  <img class="education-icon" src="/images/nyu_seal.png" alt="NYU Seal">
   M.S. in Data Science, New York University, 2023
 </div>
 
 <div class="education-item">
-  <img class="education-icon" src="/images/columbia_seal.jpeg" alt="Icon">
+  <img class="education-icon" src="/images/columbia_seal.png" alt="Columbia Seal">
   B.S. in Applied Physics, Columbia University, 2020
 </div>
 
