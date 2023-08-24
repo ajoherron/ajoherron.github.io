@@ -35,8 +35,11 @@ Education
   <img class="education-icon" src="/images/columbia_seal.jpeg" alt="Icon">
   B.S. in Applied Physics, Columbia University, 2020
 </div>
-  * Heavyweight Rowing Team (elected Captain)
-  * Minor in History  
+
+<ul>
+  <li>Heavyweight Rowing Team (elected Captain)</li>
+  <li>Minor in History</li>
+</ul>
 
 * B.S. in Applied Physics, Columbia University, 2020
   * Heavyweight Rowing Team (elected Captain)
