@@ -9,9 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+  .education-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .education-icon {
+    margin-right: 10px;
+    width: 30px; /* Adjust this size as needed */
+    height: auto;
+  }
+</style>
+
 Education
 ======
-* M.S. in Data Science, New York University, 2023
+
+<div class="education-item">
+  <img class="education-icon" src="/images/duck_breast.jpeg" alt="Icon">
+  M.S. in Data Science, New York University, 2023
+</div>
+
+<!-- * M.S. in Data Science, New York University, 2023 -->
 * B.S. in Applied Physics, Columbia University, 2020
   * Heavyweight Rowing Team (elected Captain)
   * Minor in History

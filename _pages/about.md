@@ -19,4 +19,4 @@ Welcome to my website! I'm passionate about the intersection of Data Science and
 
 I have experience with environmental research and engineering/programming. I also have some general experience with data science problems across various disciplines from my studies at NYU, including natural language processing, computer vision, and financial projects such as loan default prediction. When I was an undergrad student, I studied physics, and was most interested in environmental science applications.
 
-<img src="{{ "/images/temperature_anomaly.jpg" | relative_url }}" alt="Temperature Anomaly" width="500" height="500" class="centered-image">
+<img src="{{ "/images/temperature_anomaly.jpg" | relative_url }}" alt="Temperature Anomaly" width="750" height="750" class="centered-image">
