@@ -10,12 +10,9 @@ redirect_from:
 
 Welcome to my website! I'm passionate about the intersection of Data Science and Climate Science. I'm interested in machine learning, uncovering trends within data, presenting information in easy-to-understand visualizations, and I'm always looking forward to learning new technologies. Ultimately, I think the climate crisis is the world's most pressing issue, and I'm excited about finding ways to help solve it! 
 
-I have experience with environmental research and engineering/programming. I also have some general experience with data science problems across various disciplines from my studies at NYU, including natural language processing, computer vision, and financial projects such as loan default prediction.
+I have experience with environmental research and engineering/programming. I also have some general experience with data science problems across various disciplines from my studies at NYU, including natural language processing, computer vision, and financial projects such as loan default prediction. When I was an undergrad student, I studied physics, and was most interested in environmental science applications.
 
-As far as my interests go, I'm ...
 
-<!-- 
-There has never been a taller, more handsome, smarter, or more personable man to walk the Earth. Count yourself lucky that you've found yourself on the best website in all the internet's glory. -->
 
 A True Gruddly Puddler
 ======

@@ -13,23 +13,27 @@ Education
 ======
 * M.S. in Data Science, New York University, 2023
 * B.S. in Applied Physics, Columbia University, 2020
+  * Heavyweight Rowing Team (elected Captain)
+  * Minor in History
 
 Work experience
 ======
 
 * **Scientific Programmer @ the NASA Goddard Institute for Space Studies** (July 2023 - Now)
 
-* Research Engineering Intern @ Nuance Communications / Microsoft (Summer 2022)
+* **Research Engineering Intern @ Nuance Communications / Microsoft** (Summer 2022)
 
-* Remote Sensing Analyst @ Earthshot Labs (Feb - Apr 2021)
+* **Remote Sensing Analyst @ Earthshot Labs** (Feb - Apr 2021)
 
-* Research Intern @ the NASA Goddard Institute for Space Studies (Summer 2020)
+* **Research Intern @ the NASA Goddard Institute for Space Studies** (Summer 2020)
 
-* Solar Physics Consultant @ Autonomous Solar Barge Propulsion Network LLC (Apr 2020 - Feb 2021)
+* **Solar Physics Consultant @ Autonomous Solar Barge Propulsion Network LLC** (Apr 2020 - Feb 2021)
 
-* Research Intern @ the Lamont-Doherty Earth Observatory (Summer 2019)
+* **Research Intern @ the Lamont-Doherty Earth Observatory** (Summer 2019)
 
-* I've also worked as a rowing coach (summer 2015/2016, spring 2018), as well as in a restaurant (summer 2014)
+* Non-technical
+  * I've worked as a rowing coach (summer 2015/2016, spring 2018)
+  * My first job was in a restaurant, running tables, doing deliveries, and expediting food (summer 2014)
   
 Technical Skills
 ======
