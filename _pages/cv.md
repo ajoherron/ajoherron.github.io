@@ -16,19 +16,20 @@ Education
 
 Work experience
 ======
-* July 2023: Scientific Programmer @ the NASA Goddard Institute for Space Studies
 
-* Summer 2022: Research Engineering Intern @ Nuance Communications / Microsoft
+* **Scientific Programmer @ the NASA Goddard Institute for Space Studies** (July 2023 - Now)
 
-* February - April 2021: Remote Sensing Analyst @ Earthshot Labs
+* Research Engineering Intern @ Nuance Communications / Microsoft (Summer 2022)
 
-* Summer 2020: Research Intern @ the NASA Goddard Institute for Space Studies
+* Remote Sensing Analyst @ Earthshot Labs (Feb - Apr 2021)
 
-* April 2020 - February 2021: Solar Physics Consultant @ Autonomous Solar Barge Propulsion Network LLC
+* Research Intern @ the NASA Goddard Institute for Space Studies (Summer 2020)
 
-* Summer 2019: Research Intern @ the Lamont-Doherty Earth Observatory
+* Solar Physics Consultant @ Autonomous Solar Barge Propulsion Network LLC (Apr 2020 - Feb 2021)
 
-* Note: I also have prior experience working as a rowing coach (summer 2015, summer 2016, spring 2018), as well as restaurant experience (summer 2014)
+* Research Intern @ the Lamont-Doherty Earth Observatory (Summer 2019)
+
+* I've also worked as a rowing coach (summer 2015/2016, spring 2018), as well as in a restaurant (summer 2014)
   
 Technical Skills
 ======
