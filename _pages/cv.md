@@ -10,44 +10,40 @@ redirect_from:
 {% include base_path %}
 
 <style>
-  .education-item {
+  .item {
     display: flex;
     align-items: center;
     margin-bottom: 10px;
   }
 
-  .education-icon {
+  .icon {
     margin-right: 10px;
     width: 100px; /* Adjust this size as needed */
     height: auto;
   }
 
-  .education-list {
-    margin-left: 40px; /* Adjust the indentation as needed */
+  .list {
+    margin-left: 75px; /* Adjust the indentation as needed */
   }
 </style>
 
 Education
 ======
 
-<div class="education-item">
-  <img class="education-icon" src="/images/nyu_seal.png" alt="NYU Seal">
+<div class="item">
+  <img class="icon" src="/images/nyu_seal.png" alt="NYU Seal">
   M.S. in Data Science, New York University, 2023
 </div>
 
-<div class="education-item">
-  <img class="education-icon" src="/images/columbia_seal.png" alt="Columbia Seal">
+<div class="item">
+  <img class="icon" src="/images/columbia_seal.png" alt="Columbia Seal">
   B.S. in Applied Physics, Columbia University, 2020
 </div>
 
-<ul class="education-list">
+<ul class="list">
   <li>Heavyweight Rowing Team (elected Captain)</li>
   <li>Minor in History</li>
 </ul>
-
-* B.S. in Applied Physics, Columbia University, 2020
-  * Heavyweight Rowing Team (elected Captain)
-  * Minor in History
 
 Work experience
 ======
