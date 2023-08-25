@@ -4,3 +4,5 @@ excerpt: "For the final project of my Data Science in Finance course, I created 
 <img src='/images/default_project.JPG' alt='Loan Default Project' width='500' height='500'>"
 collection: portfolio
 ---
+
+Add some stuff here

@@ -26,8 +26,8 @@ collection: portfolio
 <body>
 
 <div class="click-to-zoom">
-  <a href="{{ "/images/Group_10_Capstone_Poster.jpg" | relative_url }}" target="_blank">
-    <img src="{{ "/images/Group_10_Capstone_Poster.jpg" | relative_url }}" alt="Capstone Project Poster">
+  <a href="{{ "/images/NLP_Twitter_Project_Poster.jpg" | relative_url }}" target="_blank">
+    <img src="{{ "/images/NLP_Twitter_Project_Poster.jpg" | relative_url }}" alt="Capstone Project Poster">
   </a>
 </div>
 
