@@ -57,8 +57,8 @@ redirect_from:
 
   .work-icon {
     margin-right: 10px;
-    width: 100px;
     height: 100px;
+    width: auto;
   }
 
 </style>
