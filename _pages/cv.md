@@ -10,43 +10,65 @@ redirect_from:
 {% include base_path %}
 
 <style>
-  .item {
+  .education-item {
     display: flex;
     align-items: center;
     margin-bottom: 10px;
   }
 
-  .icon {
+  .education-icon {
     margin-right: 10px;
     width: 100px; /* Adjust this size as needed */
     height: auto;
   }
 
-  .list {
+  .education-list {
     margin-left: 75px; /* Adjust the indentation as needed */
+  }
+
+  .work-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .work-icon {
+    margin-right: 10px;
+    width: 60px; /* Adjust this size as needed */
+    height: auto;
+  }
+
+  .work-list {
+    margin-left: 50px; /* Adjust the indentation as needed */
   }
 </style>
 
 Education
 ======
 
-<div class="item">
-  <img class="icon" src="/images/nyu_seal.png" alt="NYU Seal">
+<div class="education-item">
+  <img class="education-icon" src="/images/nyu_seal.png" alt="NYU Seal">
   M.S. in Data Science, New York University, 2023
 </div>
 
-<div class="item">
-  <img class="icon" src="/images/columbia_seal.png" alt="Columbia Seal">
+<div class="education-item">
+  <img class="education-icon" src="/images/columbia_seal.png" alt="Columbia Seal">
   B.S. in Applied Physics, Columbia University, 2020
 </div>
 
-<ul class="list">
+<ul class="education-list">
   <li>Heavyweight Rowing Team (elected Captain)</li>
   <li>Minor in History</li>
 </ul>
 
 Work experience
 ======
+
+<div class="work-item">
+  <img class="work-icon" src="/images/nasa_meatball.png" alt="NASA Meatball">
+  Scientific Programmer @ the NASA Goddard Institute for Space Studies (July 2023 - Present)
+  B.S. in Applied Physics, Columbia University, 2020
+</div>
 
 * **Scientific Programmer @ the NASA Goddard Institute for Space Studies** (July 2023 - Now)
 
