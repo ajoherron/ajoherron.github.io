@@ -7,8 +7,45 @@ collection: portfolio
 
 (Click to expand)
 
-<!-- <!DOCTYPE html> -->
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .click-to-zoom {
+      position: relative;
+      width: auto; /* Set the initial width to auto */
+      max-width: 100%; /* Ensure the image doesn't exceed its original width */
+      transition: width 0.3s ease;
+      cursor: pointer;
+    }
 
+    .click-to-zoom img {
+      width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+
+<div class="click-to-zoom" onclick="toggleZoom(this)">
+  <img src="{{ "/images/Group_10_Capstone_Poster.jpg" | relative_url }}" alt="Capstone Project Poster">
+</div>
+
+<script>
+  function toggleZoom(element) {
+    if (element.style.width === 'auto' || element.style.width === '') {
+      element.style.width = '100%'; /* Set the expanded width */
+    } else {
+      element.style.width = 'auto';
+    }
+  }
+</script>
+
+</body>
+</html>
+
+
+<!-- 
 <html>
 <head>
   <style>
@@ -34,7 +71,7 @@ collection: portfolio
 <script>
   function toggleZoom(element) {
     if (element.style.width === '100%') {
-      element.style.width = '1300px'; /* Set the expanded width */
+      element.style.width = '1400px'; /* Set the expanded width */
     } else {
       element.style.width = '100%';
     }
@@ -42,4 +79,4 @@ collection: portfolio
 </script>
 
 </body>
-</html>
+</html> -->
