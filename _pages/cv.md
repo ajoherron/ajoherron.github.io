@@ -26,6 +26,28 @@ redirect_from:
     margin-left: 75px; /* Adjust the indentation as needed */
   }
 
+  /* .work-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .work-icon {
+    margin-right: 10px;
+    width: 60px; 
+    height: auto;
+  }
+
+  .work-list {
+    margin-left: 50px; 
+  } */
+
+  .work-list {
+    list-style-type: none;
+    padding: 0;
+    margin-left: 50px; /* Adjust the indentation as needed */
+  }
+
   .work-item {
     display: flex;
     align-items: center;
@@ -38,10 +60,9 @@ redirect_from:
     height: auto;
   }
 
-  .work-list {
-    margin-left: 50px; /* Adjust the indentation as needed */
-  }
 </style>
+
+
 
 Education
 ======
@@ -64,7 +85,7 @@ Education
 Work experience
 ======
 
-<div class="work-item">
+<!-- <div class="work-item">
   <img class="work-icon" src="/images/nasa_meatball.png" alt="NASA Meatball">
   Scientific Programmer @ the NASA Goddard Institute for Space Studies (July 2023 - Present)
 </div>
@@ -92,19 +113,34 @@ Work experience
 <div class="work-item">
   <img class="work-icon" src="/images/lamont_doherty.jpeg" alt="LDEO">
   Research Intern @ the Lamont-Doherty Earth Observatory** (Summer 2019)
-</div>
+</div> -->
 
-<!-- * **Scientific Programmer @ the NASA Goddard Institute for Space Studies** (July 2023 - Now) -->
-
-<!-- * **Research Engineering Intern @ Nuance Communications / Microsoft** (Summer 2022) -->
-
-<!-- Remote Sensing Analyst @ Earthshot Labs(Feb - Apr 2021) -->
-
-<!-- * **Research Intern @ the NASA Goddard Institute for Space Studies** (Summer 2020) -->
-
-<!-- * **Solar Physics Consultant @ Autonomous Solar Barge Propulsion Network LLC** (Apr 2020 - Feb 2021) -->
-
-<!-- * **Research Intern @ the Lamont-Doherty Earth Observatory** (Summer 2019) -->
+<ul class="work-list">
+  <li class="work-item">
+    <img class="work-icon" src="/images/nasa_meatball.png" alt="NASA Meatball">
+    Scientific Programmer @ the NASA Goddard Institute for Space Studies (July 2023 - Present)
+  </li>
+  <li class="work-item">
+    <img class="work-icon" src="/images/nuance_microsoft.webp" alt="Nuance + Microsoft">
+    Research Engineering Intern @ Nuance Communications / Microsoft (Summer 2022)
+  </li>
+  <li class="work-item">
+    <img class="work-icon" src="/images/earthshot_labs.jpeg" alt="Earthshot Lab">
+    Remote Sensing Analyst @ Earthshot Labs (Feb - Apr 2021)
+  </li>
+  <li class="work-item">
+    <img class="work-icon" src="/images/nasa_meatball.png" alt="NASA Meatball">
+    Research Intern @ the NASA Goddard Institute for Space Studies (Summer 2020)
+  </li>
+  <li class="work-item">
+    <img class="work-icon" src="/images/asbpn.jpg" alt="ASBPN">
+    Solar Physics Consultant @ Autonomous Solar Barge Propulsion Network LLC (Apr 2020 - Feb 2021)
+  </li>
+  <li class="work-item">
+    <img class="work-icon" src="/images/lamont_doherty.jpeg" alt="LDEO">
+    Research Intern @ the Lamont-Doherty Earth Observatory (Summer 2019)
+  </li>
+</ul>
 
 * Non-technical
   * I've worked as a rowing coach (summer 2015/2016, spring 2018)
