@@ -24,6 +24,22 @@ collection: portfolio
   }
 </style>
 
+<script>
+  const container = document.querySelector('.zoom-container');
+  const image = document.querySelector('.zoom-image');
+
+  container.addEventListener('mousemove', (e) => {
+    const rect = container.getBoundingClientRect();
+    const offsetX = e.clientX - rect.left;
+    const offsetY = e.clientY - rect.top;
+    const percentX = offsetX / container.offsetWidth;
+    const percentY = offsetY / container.offsetHeight;
+    
+    image.style.transformOrigin = `${percentX * 100}% ${percentY * 100}%`;
+  });
+</script>
+
+
 <div class="zoom-container">
   <img src="{{ "/images/Group_10_Capstone_Poster.jpg" | relative_url }}" alt="Capstone Project Poster" class="zoom-image">
 </div>
