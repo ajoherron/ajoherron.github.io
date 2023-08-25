@@ -5,13 +5,14 @@ excerpt: "For my final project in my Natural Language Processing course, I chose
 collection: portfolio
 ---
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
+
 <html>
 <head>
   <style>
     .click-to-zoom {
       position: relative;
-      width: 300px; /* Set the initial width */
+      width: 1000px; /* Set the initial width */
       transition: width 0.3s ease;
       cursor: pointer;
     }
