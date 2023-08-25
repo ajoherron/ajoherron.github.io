@@ -5,4 +5,4 @@ excerpt: "For my final project in my Natural Language Processing course, I chose
 collection: portfolio
 ---
 
-<img src="{{ "/images/NLP_Twitter_Project_Poster.jpg" | relative_url }}" alt="Twitter Project Poster" width="750" height="750" class="centered-image">
+<img src="{{ "/images/NLP_Twitter_Project_Poster.jpg" | relative_url }}" alt="Twitter Project Poster" width="1250" height="1250" class="centered-image">
