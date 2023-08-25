@@ -18,47 +18,31 @@ redirect_from:
 
   .education-icon {
     margin-right: 10px;
-    width: 100px; /* Adjust this size as needed */
+    width: 100px; 
     height: auto;
   }
 
   .education-list {
-    margin-left: 75px; /* Adjust the indentation as needed */
+    margin-left: 75px; 
   }
-
-  /* .work-item {
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
-  }
-
-  .work-icon {
-    margin-right: 10px;
-    width: 60px; 
-    height: auto;
-  }
-
-  .work-list {
-    margin-left: 50px; 
-  } */
 
   .work-list {
     list-style-type: none;
     padding: 0;
-    margin-left: 50px; /* Adjust the indentation as needed */
+    margin-left: 50px; 
   }
 
   .work-item {
     display: flex;
     align-items: center;
     margin-bottom: 10px;
-    line-height: 3; /* Adjust the line height as needed */
+    line-height: 3;
   }
 
   .work-icon {
     margin-right: 10px;
-    width: 120px;
-    height: 100px;
+    width: 100px;
+    height: 80px;
   }
 
 </style>
@@ -83,36 +67,6 @@ Education
 
 Work experience
 ======
-
-<!-- <div class="work-item">
-  <img class="work-icon" src="/images/nasa_meatball.png" alt="NASA Meatball">
-  Scientific Programmer @ the NASA Goddard Institute for Space Studies (July 2023 - Present)
-</div>
-
-<div class="work-item">
-  <img class="work-icon" src="/images/nuance_microsoft.webp" alt="Nuance + Microsoft">
-  Research Engineering Intern @ Nuance Communications / Microsoft (Summer 2022)
-</div>
-
-<div class="work-item">
-  <img class="work-icon" src="/images/earthshot_labs.jpeg" alt="Earthshot Lab">
-  Remote Sensing Analyst @ Earthshot Labs(Feb - Apr 2021)
-</div>
-
-<div class="work-item">
-  <img class="work-icon" src="/images/nasa_meatball.png" alt="NASA Meatball">
-  Research Intern @ the NASA Goddard Institute for Space Studies (Summer 2020)
-</div>
-
-<div class="work-item">
-  <img class="work-icon" src="/images/asbpn.jpg" alt="ASBPN">
-  Solar Physics Consultant @ Autonomous Solar Barge Propulsion Network LLC (Apr 2020 - Feb 2021)
-</div>
-
-<div class="work-item">
-  <img class="work-icon" src="/images/lamont_doherty.jpeg" alt="LDEO">
-  Research Intern @ the Lamont-Doherty Earth Observatory** (Summer 2019)
-</div> -->
 
 <ul class="work-list">
   <li class="work-item">
