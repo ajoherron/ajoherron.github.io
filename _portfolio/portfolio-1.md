@@ -7,6 +7,8 @@ excerpt: "In Fall 2022 I worked with Orbio Earth - an exciting startup that's bu
 collection: portfolio
 ---
 
+[Methane Masking Report](/images/Capstone_Report_Group_10.pdf)
+
 (Hover over to expand)
 
 <html>

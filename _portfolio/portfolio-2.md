@@ -7,6 +7,8 @@ excerpt: "For my final project in my Natural Language Processing course, I chose
 collection: portfolio
 ---
 
+[Twitter Sentiment Report](/images/NLP_Report_Team_27.pdf)
+
 (Hover over to expand)
 
 <html>

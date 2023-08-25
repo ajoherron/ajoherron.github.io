@@ -7,8 +7,6 @@ excerpt: "In my healthcare machine learning course, I worked on a project center
 collection: portfolio
 ---
 
-Download the writeup if you want to check it out:
+[X-Ray Computer Vision Report](/images/healthcare_project_report.pdf)
 
-[Download PDF](/images/healthcare_project_report.pdf)
-
-<!-- /<img src="{{ "/images/healthcare_project_report.png" | relative_url }}" alt="Healthcare Project Report" width="750" height="750" class="centered-image"> -->
+[X-Ray Computer Vision Presentation](/images/Healthcare_Project_Presentation.pdf)
