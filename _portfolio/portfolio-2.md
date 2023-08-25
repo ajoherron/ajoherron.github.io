@@ -19,7 +19,7 @@ collection: portfolio
     }
 
     .click-to-zoom img:hover {
-      transform: scale(1.2); /* Zoom in by 20% on hover */
+      transform: scale(1.8); /* Zoom in by 20% on hover */
     }
   </style>
 </head>
