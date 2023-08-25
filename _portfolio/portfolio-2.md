@@ -14,7 +14,7 @@ collection: portfolio
   }
 
   .centered-image:hover {
-    transform: scale(1.2); /* Zoom in by 20% on hover */
+    transform: scale(2); /* Zoom in by 20% on hover */
   }
 </style>
 
