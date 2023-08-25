@@ -13,6 +13,13 @@ redirect_from:
     display: block;
     margin: 0 auto;
   }
+
+  .centered-video {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
 </style>
 
 Welcome to my website! I'm passionate about the intersection of Data Science and Climate Science. I'm interested in machine learning, uncovering trends within data, presenting information in easy-to-understand visualizations, and I'm always looking forward to learning new technologies. I think the climate crisis is the world's most pressing issue, and I'm excited about finding ways to help solve it! 
@@ -22,3 +29,7 @@ I have experience with environmental research and engineering/programming. I als
 <img src="{{ "/images/temperature_anomaly.jpg" | relative_url }}" alt="Temperature Anomaly" width="750" height="750" class="centered-image">
 
 <img src="{{ "/images/temperature_gif.gif" | relative_url }}" alt="GIF Image" width="750" height="750" class="centered-image">
+
+<video controls class="centered-video">
+  <source src="{{ "/images/temp_anom_dynamic.mov" | relative_url }}" type="video/quicktime">
+</video>
