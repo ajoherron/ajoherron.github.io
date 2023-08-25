@@ -57,13 +57,11 @@ redirect_from:
 
   .work-icon {
     margin-right: 10px;
-    width: 100x; /* Adjust this size as needed */
+    width: 100px; /* Adjust this size as needed */
     height: auto;
   }
 
 </style>
-
-
 
 Education
 ======
