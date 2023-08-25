@@ -4,3 +4,5 @@ excerpt: "For my final project in my Natural Language Processing course, I chose
 <img src='/images/twitter_project.JPG' alt='Twitter Project' width='600' height='600'>"
 collection: portfolio
 ---
+
+<img src="{{ "/images/NLP_Twitter_Project_Poster.pdf" | relative_url }}" alt="Twitter Project Poster" width="750" height="750" class="centered-image">
