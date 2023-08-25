@@ -67,20 +67,44 @@ Work experience
 <div class="work-item">
   <img class="work-icon" src="/images/nasa_meatball.png" alt="NASA Meatball">
   Scientific Programmer @ the NASA Goddard Institute for Space Studies (July 2023 - Present)
-  B.S. in Applied Physics, Columbia University, 2020
 </div>
 
-* **Scientific Programmer @ the NASA Goddard Institute for Space Studies** (July 2023 - Now)
+<div class="work-item">
+  <img class="work-icon" src="/images/nuance_microsoft.webp" alt="Nuance + Microsoft">
+  Research Engineering Intern @ Nuance Communications / Microsoft (Summer 2022)
+</div>
 
-* **Research Engineering Intern @ Nuance Communications / Microsoft** (Summer 2022)
+<div class="work-item">
+  <img class="work-icon" src="/images/earthshot_labs.jpeg" alt="Earthshot Lab">
+  Remote Sensing Analyst @ Earthshot Labs(Feb - Apr 2021)
+</div>
 
-* **Remote Sensing Analyst @ Earthshot Labs** (Feb - Apr 2021)
+<div class="work-item">
+  <img class="work-icon" src="/images/nasa_meatball.png" alt="NASA Meatball">
+  Research Intern @ the NASA Goddard Institute for Space Studies (Summer 2020)
+</div>
 
-* **Research Intern @ the NASA Goddard Institute for Space Studies** (Summer 2020)
+<div class="work-item">
+  <img class="work-icon" src="/images/asbpn.jpg" alt="ASBPN">
+  Solar Physics Consultant @ Autonomous Solar Barge Propulsion Network LLC (Apr 2020 - Feb 2021)
+</div>
 
-* **Solar Physics Consultant @ Autonomous Solar Barge Propulsion Network LLC** (Apr 2020 - Feb 2021)
+<div class="work-item">
+  <img class="work-icon" src="/images/lamont_doherty.jpeg" alt="LDEO">
+  Research Intern @ the Lamont-Doherty Earth Observatory** (Summer 2019)
+</div>
 
-* **Research Intern @ the Lamont-Doherty Earth Observatory** (Summer 2019)
+<!-- * **Scientific Programmer @ the NASA Goddard Institute for Space Studies** (July 2023 - Now) -->
+
+<!-- * **Research Engineering Intern @ Nuance Communications / Microsoft** (Summer 2022) -->
+
+<!-- Remote Sensing Analyst @ Earthshot Labs(Feb - Apr 2021) -->
+
+<!-- * **Research Intern @ the NASA Goddard Institute for Space Studies** (Summer 2020) -->
+
+<!-- * **Solar Physics Consultant @ Autonomous Solar Barge Propulsion Network LLC** (Apr 2020 - Feb 2021) -->
+
+<!-- * **Research Intern @ the Lamont-Doherty Earth Observatory** (Summer 2019) -->
 
 * Non-technical
   * I've worked as a rowing coach (summer 2015/2016, spring 2018)
@@ -103,7 +127,7 @@ Technical Skills
   * Azure
   * AWS
 
-Publications
+Publications (every single one of them!)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
