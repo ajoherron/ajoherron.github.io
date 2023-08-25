@@ -7,4 +7,30 @@ excerpt: "In Fall 2022 I worked with Orbio Earth - an exciting startup that's bu
 collection: portfolio
 ---
 
-<img src="{{ "/images/Group_10_Capstone_Poster.jpg" | relative_url }}" alt="Capstone Project Poster" width="2000" height="2000" class="centered-image">
+(Hover over to expand)
+
+<html>
+<head>
+  <style>
+    .click-to-zoom img {
+      width: 100%;
+      height: auto;
+      cursor: pointer;
+      transition: transform 0.3s;
+    }
+
+    .click-to-zoom img:hover {
+      transform: scale(1.5); 
+    }
+  </style>
+</head>
+<body>
+
+<div class="click-to-zoom">
+  <a href="{{ "/images/Group_10_Capstone_Poster.jpg" | relative_url }}" target="_blank">
+    <img src="{{ "/images/Group_10_Capstone_Poster.jpg" | relative_url }}" alt="Capstone Project Poster">
+  </a>
+</div>
+
+</body>
+</html>

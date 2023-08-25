@@ -7,8 +7,7 @@ excerpt: "For my final project in my Natural Language Processing course, I chose
 collection: portfolio
 ---
 
-(Click to expand)
-
+(Hover over to expand)
 
 <html>
 <head>
@@ -21,7 +20,7 @@ collection: portfolio
     }
 
     .click-to-zoom img:hover {
-      transform: scale(1.5); /* Zoom in by 20% on hover */
+      transform: scale(1.5); 
     }
   </style>
 </head>
