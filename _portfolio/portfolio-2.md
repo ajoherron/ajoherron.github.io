@@ -7,13 +7,12 @@ collection: portfolio
 
 (Click to expand)
 
-<!DOCTYPE html>
 <html>
 <head>
   <style>
     .click-to-zoom {
       position: relative;
-      width: auto; /* Set the initial width to auto */
+      width: 100%; /* Set the initial width to 100% */
       max-width: 100%; /* Ensure the image doesn't exceed its original width */
       transition: width 0.3s ease;
       cursor: pointer;
@@ -33,16 +32,17 @@ collection: portfolio
 
 <script>
   function toggleZoom(element) {
-    if (element.style.width === 'auto' || element.style.width === '') {
-      element.style.width = '100%'; /* Set the expanded width */
+    if (element.style.width === '100%' || element.style.width === '') {
+      element.style.width = '200%'; /* Set the expanded width */
     } else {
-      element.style.width = 'auto';
+      element.style.width = '100%';
     }
   }
 </script>
 
 </body>
 </html>
+
 
 
 <!-- 
