@@ -52,12 +52,12 @@ redirect_from:
     display: flex;
     align-items: center;
     margin-bottom: 10px;
-    line-height: 15; /* Adjust the line height as needed */
+    line-height: 3; /* Adjust the line height as needed */
   }
 
   .work-icon {
     margin-right: 10px;
-    width: 60px; /* Adjust this size as needed */
+    width: 100x; /* Adjust this size as needed */
     height: auto;
   }
 
