@@ -52,6 +52,7 @@ redirect_from:
     display: flex;
     align-items: center;
     margin-bottom: 10px;
+    line-height: 1.5; /* Adjust the line height as needed */
   }
 
   .work-icon {
