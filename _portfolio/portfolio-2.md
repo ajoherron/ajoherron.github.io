@@ -7,38 +7,29 @@ collection: portfolio
 
 (Click to expand)
 
+
 <html>
 <head>
   <style>
-    .click-to-zoom {
-      position: relative;
-      width: 100%; /* Set the initial width to 100% */
-      max-width: 100%; /* Ensure the image doesn't exceed its original width */
-      transition: width 0.3s ease;
-      cursor: pointer;
-    }
-
     .click-to-zoom img {
       width: 100%;
       height: auto;
+      cursor: pointer;
+      transition: transform 0.3s;
+    }
+
+    .click-to-zoom img:hover {
+      transform: scale(1.2); /* Zoom in by 20% on hover */
     }
   </style>
 </head>
 <body>
 
-<div class="click-to-zoom" onclick="toggleZoom(this)">
-  <img src="{{ "/images/Group_10_Capstone_Poster.jpg" | relative_url }}" alt="Capstone Project Poster">
+<div class="click-to-zoom">
+  <a href="{{ "/images/Group_10_Capstone_Poster.jpg" | relative_url }}" target="_blank">
+    <img src="{{ "/images/Group_10_Capstone_Poster.jpg" | relative_url }}" alt="Capstone Project Poster">
+  </a>
 </div>
-
-<script>
-  function toggleZoom(element) {
-    if (element.style.width === '100%' || element.style.width === '') {
-      element.style.width = '200%'; /* Set the expanded width */
-    } else {
-      element.style.width = '100%';
-    }
-  }
-</script>
 
 </body>
 </html>
