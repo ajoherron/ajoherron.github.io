@@ -4,3 +4,5 @@ excerpt: "In Fall 2022 I worked with Orbio Earth - an exciting startup that's bu
 <img src='/images/capstone_project.JPG' alt='Capstone Project' width='500' height='500'>"
 collection: portfolio
 ---
+
+<img src="{{ "/images/Group_10_Capstone_Poster.jpg" | relative_url }}" alt="Capstone Project Poster" width="750" height="750" class="centered-image">
