@@ -7,4 +7,4 @@ excerpt: "For the final project of my Data Science in Finance course, I created 
 collection: portfolio
 ---
 
-[Loan Default Prediction Presentation](/images/load_default_prediction_presentation.pdf)
+[Loan Default Prediction Presentation](/images/loan_default_prediction_presentation.pdf)
