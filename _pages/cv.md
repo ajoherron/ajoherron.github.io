@@ -57,8 +57,8 @@ redirect_from:
 
   .work-icon {
     margin-right: 10px;
+    width: 120px;
     height: 100px;
-    width: auto;
   }
 
 </style>
@@ -116,7 +116,7 @@ Work experience
 
 <ul class="work-list">
   <li class="work-item">
-    <img class="work-icon" src="/images/nasa_meatball.png" alt="NASA Meatball">
+    <img class="work-icon" src="/images/nasa_meatball_square.png" alt="NASA Meatball">
     Scientific Programmer @ the NASA Goddard Institute for Space Studies (July 2023 - Present)
   </li>
   <li class="work-item">
@@ -124,15 +124,15 @@ Work experience
     Research Engineering Intern @ Nuance Communications / Microsoft (Summer 2022)
   </li>
   <li class="work-item">
-    <img class="work-icon" src="/images/earthshot_labs.jpeg" alt="Earthshot Lab">
+    <img class="work-icon" src="/images/earthshot_labs_square.jpg" alt="Earthshot Lab">
     Remote Sensing Analyst @ Earthshot Labs (Feb - Apr 2021)
   </li>
   <li class="work-item">
-    <img class="work-icon" src="/images/nasa_meatball.png" alt="NASA Meatball">
+    <img class="work-icon" src="/images/nasa_meatball_square.png" alt="NASA Meatball">
     Research Intern @ the NASA Goddard Institute for Space Studies (Summer 2020)
   </li>
   <li class="work-item">
-    <img class="work-icon" src="/images/asbpn.jpg" alt="ASBPN">
+    <img class="work-icon" src="/images/asbpn_square.jpg" alt="ASBPN">
     Solar Physics Consultant @ Autonomous Solar Barge Propulsion Network LLC (Apr 2020 - Feb 2021)
   </li>
   <li class="work-item">
