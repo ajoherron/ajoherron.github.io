@@ -32,7 +32,7 @@ collection: portfolio
 <script>
   function toggleZoom(element) {
     if (element.style.width === '100%') {
-      element.style.width = '600px'; /* Set the expanded width */
+      element.style.width = '1500px'; /* Set the expanded width */
     } else {
       element.style.width = '100%';
     }
