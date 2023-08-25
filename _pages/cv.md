@@ -95,10 +95,11 @@ Work experience
   </li>
 </ul>
 
-* Non-technical
+<!-- * Non-technical
   * I've worked as a rowing coach (summer 2015/2016, spring 2018)
   * My first job was in a restaurant, running tables, doing deliveries, and expediting food (summer 2014)
-  
+   -->
+   
 Technical Skills
 ======
 * Python (primary language)
