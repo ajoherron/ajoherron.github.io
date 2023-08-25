@@ -12,7 +12,7 @@ collection: portfolio
   <style>
     .click-to-zoom {
       position: relative;
-      width: 1000px; /* Set the initial width */
+      width: 750px; /* Set the initial width */
       transition: width 0.3s ease;
       cursor: pointer;
     }
@@ -32,7 +32,7 @@ collection: portfolio
 <script>
   function toggleZoom(element) {
     if (element.style.width === '100%') {
-      element.style.width = '1500px'; /* Set the expanded width */
+      element.style.width = '1300px'; /* Set the expanded width */
     } else {
       element.style.width = '100%';
     }
