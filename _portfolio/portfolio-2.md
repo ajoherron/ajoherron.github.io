@@ -5,11 +5,48 @@ excerpt: "For my final project in my Natural Language Processing course, I chose
 collection: portfolio
 ---
 
-<style>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .click-to-zoom {
+      position: relative;
+      width: 300px; /* Set the initial width */
+      transition: width 0.3s ease;
+      cursor: pointer;
+    }
+
+    .click-to-zoom img {
+      width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+
+<div class="click-to-zoom" onclick="toggleZoom(this)">
+  <img src="{{ "/images/Group_10_Capstone_Poster.jpg" | relative_url }}" alt="Capstone Project Poster">
+</div>
+
+<script>
+  function toggleZoom(element) {
+    if (element.style.width === '100%') {
+      element.style.width = '600px'; /* Set the expanded width */
+    } else {
+      element.style.width = '100%';
+    }
+  }
+</script>
+
+</body>
+</html>
+
+
+<!-- <style>
   .zoom-container {
     overflow: hidden;
-    width: 500px; /* Set the width of the zoom container */
-    height: 500px; /* Set the height of the zoom container */
+    width: 1000px; /* Set the width of the zoom container */
+    height: 1000px; /* Set the height of the zoom container */
   }
 
   .zoom-image {
@@ -42,7 +79,7 @@ collection: portfolio
 
 <div class="zoom-container">
   <img src="{{ "/images/Group_10_Capstone_Poster.jpg" | relative_url }}" alt="Capstone Project Poster" class="zoom-image">
-</div>
+</div> -->
 
 <!-- Zoomed image
 
