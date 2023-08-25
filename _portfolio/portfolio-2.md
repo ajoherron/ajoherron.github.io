@@ -6,6 +6,31 @@ collection: portfolio
 ---
 
 <style>
+  .zoom-container {
+    overflow: hidden;
+    width: 500px; /* Set the width of the zoom container */
+    height: 500px; /* Set the height of the zoom container */
+  }
+
+  .zoom-image {
+    width: 100%;
+    height: 100%;
+    transition: transform 0.3s;
+  }
+
+  .zoom-container:hover .zoom-image {
+    transform: scale(1.5); /* Zoom in by 50% on hover */
+    transform-origin: center center; /* Zoom from the center */
+  }
+</style>
+
+<div class="zoom-container">
+  <img src="{{ "/images/Group_10_Capstone_Poster.jpg" | relative_url }}" alt="Capstone Project Poster" class="zoom-image">
+</div>
+
+<!-- Zoomed image
+
+<style>
   .centered-image {
     display: block;
     margin: 0 auto;
@@ -14,10 +39,12 @@ collection: portfolio
   }
 
   .centered-image:hover {
-    transform: scale(2); /* Zoom in by 20% on hover */
+    transform: scale(1.7); /* Zoom in by 20% on hover */
   }
 </style>
 
-<img src="{{ "/images/Group_10_Capstone_Poster.jpg" | relative_url }}" alt="Capstone Project Poster" width="1000" height="1000" class="centered-image">
+<img src="{{ "/images/Group_10_Capstone_Poster.jpg" | relative_url }}" alt="Capstone Project Poster" width="1000" height="1000" class="centered-image"> -->
+
+<!-- Regular image -->
 
 <!-- <img src="{{ "/images/NLP_Twitter_Project_Poster.jpg" | relative_url }}" alt="Twitter Project Poster" width="1250" height="1250" class="centered-image"> -->
