@@ -62,10 +62,13 @@ Education
   <div class="education-item">
     <img class="education-icon" src="/images/columbia_seal.png" alt="Columbia Seal">
     B.S. in Applied Physics, Columbia University, 2020
+    <div class="nested-bullet-points">
+      <!-- <p>Additional information:</p> -->
       <ul>
-      <li>Heavyweight Rowing Team (elected Captain)</li>
-      <li>Minor in History</li>
-    </ul>
+        <li>Heavyweight Rowing Team (elected Captain)</li>
+        <li>Minor in History</li>
+      </ul>
+    </div>
   </div>
 
   <!-- <li>Heavyweight Rowing Team (elected Captain)</li>
