@@ -26,7 +26,6 @@ redirect_from:
       list-style-type: none;
     padding: 0;
     margin-left: 50px; 
-    /* margin-left: 75px;  */
   }
 
   .work-item {
@@ -53,16 +52,6 @@ redirect_from:
 Education
 ======
 
-<!-- <div class="education-item">
-  <img class="education-icon" src="/images/nyu_seal.png" alt="NYU Seal">
-  M.S. in Data Science, New York University, 2023
-</div>
-
-<div class="education-item">
-  <img class="education-icon" src="/images/columbia_seal.png" alt="Columbia Seal">
-  B.S. in Applied Physics, Columbia University, 2020
-</div> -->
-
 <ul class="education-list">
   
   <div class="education-item">
@@ -73,6 +62,10 @@ Education
   <div class="education-item">
     <img class="education-icon" src="/images/columbia_seal.png" alt="Columbia Seal">
     B.S. in Applied Physics, Columbia University, 2020
+      <ul>
+      <li>Heavyweight Rowing Team (elected Captain)</li>
+      <li>Minor in History</li>
+    </ul>
   </div>
 
   <!-- <li>Heavyweight Rowing Team (elected Captain)</li>
