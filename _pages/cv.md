@@ -49,7 +49,7 @@ redirect_from:
   }
 
   .indented-list {
-    margin-left: 120px; /* Adjust this value to control the indentation */
+    margin-left: 120px;
   }
 
 </style>
