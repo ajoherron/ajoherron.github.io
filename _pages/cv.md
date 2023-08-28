@@ -11,7 +11,7 @@ redirect_from:
 
 <style>
   .education-item {
-    display: flex;
+    /* display: flex; */
     align-items: center;
     margin-bottom: 10px;
   }
@@ -71,10 +71,10 @@ Education
     </div>
   </div>
 
+</ul>
+
   <!-- <li>Heavyweight Rowing Team (elected Captain)</li>
   <li>Minor in History</li> -->
-
-</ul>
 
 Work experience
 ======
