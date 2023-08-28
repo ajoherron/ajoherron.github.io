@@ -46,40 +46,16 @@ redirect_from:
     list-style-type: none;
     padding: 0;
     margin-left: 50px; 
-
-  .education-list li ul {
-    margin-left: 20px; /* Adjust this value to control indentation */
-    margin-top: 5px;   /* Adjust this value to control spacing between bullet points */
   }
 
   .indented-list {
-    margin-left: 20px; /* Adjust this value to control the indentation */
-  }
-
+    margin-left: 60px; /* Adjust this value to control the indentation */
   }
 
 </style>
 
 Education
 ======
-
-<ul class="education-list">
-  
-  <li class="education-item">
-    <img class="education-icon" src="/images/nyu_seal.png" alt="NYU Seal">
-    M.S. in Data Science, New York University, 2023
-  </li>
-
-  <li class="education-item">
-    <img class="education-icon" src="/images/columbia_seal.png" alt="Columbia Seal">
-    B.S. in Applied Physics, Columbia University, 2020
-    <ul>
-      <li>Heavyweight Rowing Team (elected Captain)</li>
-      <li>Minor in History</li>
-    </ul>
-  </li>
-
-</ul>
 
 <ul class="education-list">
   
@@ -99,9 +75,6 @@ Education
   <li>Heavyweight Rowing Team (elected Captain)</li>
   <li>Minor in History</li>
 </ul>
-
-  <!-- <li>Heavyweight Rowing Team (elected Captain)</li>
-  <li>Minor in History</li> -->
 
 Work experience
 ======
