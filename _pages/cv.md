@@ -23,7 +23,10 @@ redirect_from:
   }
 
   .education-list {
-    margin-left: 75px; 
+      list-style-type: none;
+    padding: 0;
+    margin-left: 50px; 
+    /* margin-left: 75px;  */
   }
 
   .work-item {
@@ -74,7 +77,7 @@ Education
 
   <!-- <li>Heavyweight Rowing Team (elected Captain)</li>
   <li>Minor in History</li> -->
-  
+
 </ul>
 
 Work experience
