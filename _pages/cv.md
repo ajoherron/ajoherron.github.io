@@ -26,12 +26,6 @@ redirect_from:
     margin-left: 75px; 
   }
 
-  .work-list {
-    list-style-type: none;
-    padding: 0;
-    margin-left: 50px; 
-  }
-
   .work-item {
     display: flex;
     align-items: center;
@@ -45,12 +39,18 @@ redirect_from:
     height: 80px;
   }
 
+  .work-list {
+    list-style-type: none;
+    padding: 0;
+    margin-left: 50px; 
+  }
+
 </style>
 
 Education
 ======
 
-<div class="education-item">
+<!-- <div class="education-item">
   <img class="education-icon" src="/images/nyu_seal.png" alt="NYU Seal">
   M.S. in Data Science, New York University, 2023
 </div>
@@ -58,11 +58,23 @@ Education
 <div class="education-item">
   <img class="education-icon" src="/images/columbia_seal.png" alt="Columbia Seal">
   B.S. in Applied Physics, Columbia University, 2020
-</div>
+</div> -->
 
 <ul class="education-list">
-  <li>Heavyweight Rowing Team (elected Captain)</li>
-  <li>Minor in History</li>
+  
+  <div class="education-item">
+    <img class="education-icon" src="/images/nyu_seal.png" alt="NYU Seal">
+    M.S. in Data Science, New York University, 2023
+  </div>
+
+  <div class="education-item">
+    <img class="education-icon" src="/images/columbia_seal.png" alt="Columbia Seal">
+    B.S. in Applied Physics, Columbia University, 2020
+  </div>
+
+  <!-- <li>Heavyweight Rowing Team (elected Captain)</li>
+  <li>Minor in History</li> -->
+  
 </ul>
 
 Work experience
@@ -99,7 +111,7 @@ Work experience
   * I've worked as a rowing coach (summer 2015/2016, spring 2018)
   * My first job was in a restaurant, running tables, doing deliveries, and expediting food (summer 2014)
    -->
-   
+
 Technical Skills
 ======
 * Python (primary language)
