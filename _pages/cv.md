@@ -10,11 +10,26 @@ redirect_from:
 {% include base_path %}
 
 <style>
+
+  /* Remove flex property from .education-item */
   .education-item {
-    /* display: flex; */
-    align-items: center;
     margin-bottom: 10px;
   }
+
+  /* Add padding to the nested bullet points */
+  .nested-bullet-points ul {
+    padding-left: 20px; /* Adjust this value to control indentation */
+  }
+
+  .nested-bullet-points li {
+    margin-bottom: 5px; /* Adjust this value to control spacing between bullet points */
+  }
+
+  /* .education-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  } */
 
   .education-icon {
     margin-right: 10px;
@@ -63,7 +78,6 @@ Education
     <img class="education-icon" src="/images/columbia_seal.png" alt="Columbia Seal">
     B.S. in Applied Physics, Columbia University, 2020
     <div class="nested-bullet-points">
-      <!-- <p>Additional information:</p> -->
       <ul>
         <li>Heavyweight Rowing Team (elected Captain)</li>
         <li>Minor in History</li>
@@ -72,6 +86,26 @@ Education
   </div>
 
 </ul>
+
+<!-- <ul class="education-list">
+  
+  <div class="education-item">
+    <img class="education-icon" src="/images/nyu_seal.png" alt="NYU Seal">
+    M.S. in Data Science, New York University, 2023
+  </div>
+
+  <div class="education-item">
+    <img class="education-icon" src="/images/columbia_seal.png" alt="Columbia Seal">
+    B.S. in Applied Physics, Columbia University, 2020
+    <div class="nested-bullet-points">
+      <ul>
+        <li>Heavyweight Rowing Team (elected Captain)</li>
+        <li>Minor in History</li>
+      </ul>
+    </div>
+  </div>
+
+</ul> -->
 
   <!-- <li>Heavyweight Rowing Team (elected Captain)</li>
   <li>Minor in History</li> -->
