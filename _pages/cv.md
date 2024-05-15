@@ -106,29 +106,21 @@ Work experience
   </li>
 </ul>
 
-<!-- * Non-technical
-  * I've worked as a rowing coach (summer 2015/2016, spring 2018)
-  * My first job was in a restaurant, running tables, doing deliveries, and expediting food (summer 2014)
-   -->
-
 Technical Skills
 ======
 * Python (primary language)
-  * Pandas
-  * NumPy
-  * Scikit-learn
-  * PyTorch
-  * PySpark
-  * Dask 
-  * pytest
-* MATLAB
-* Git
 * Linux
-* High performance cloud computing
-  * Azure
-  * AWS
+* Git
+* SQL
+* MATLAB
+* Azure
+* AWS
+* Shell Scripting
+* High Performance Computing
+* Big Data Management (Petabyte-scale)
+* Machine Learning
 
-Publications (every single one of them!)
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
