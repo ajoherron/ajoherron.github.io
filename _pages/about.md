@@ -24,4 +24,4 @@ My academic journey includes a Master of Science in Data Science from New York U
 
 Feel free to explore my website to check out my work and interests. Don't hesitate to reach out via email or LinkedIn to connect!
 
-<img src="{{ "/images/attempt_2.gif" | relative_url }}" alt="GIF Image" width="750" height="750" class="centered-image">
+<img src="{{ "/images/images/GISTEMP_dynamic_timeseries.gif" | relative_url }}" alt="GIF Image" width="750" height="750" class="centered-image">
