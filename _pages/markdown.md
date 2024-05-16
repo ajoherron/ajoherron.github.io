@@ -28,7 +28,7 @@ I really enjoy running, and back in the day I ran some pretty long runs. Back in
 
 Cooking
 ======
-I'm a big fan of cooking, finding restaurants, and generally anything food related. I try to explore new recipes often, and I think there are few better things than a good meal with good company. I think Tina Fey / Liz Lemon said it best: "I believe that all anyone really wants in this life is to sit in peace and eat a sandwich." Here's some duck breasts I made this past holiday season.
+I'm a big fan of cooking, finding restaurants, and generally anything food related. I try to explore new recipes often, and I think there are few better things than a good meal with good company. I think Tina Fey (as character Liz Lemon) said it best: "I believe that all anyone really wants in this life is to sit in peace and eat a sandwich." Here's some duck breasts I made this past holiday season.
 
 <img src="{{ "/images/duck_breast.jpeg" | relative_url }}" alt="Christmas Duck Breast" width="300" height="300" class="centered-image">
 
@@ -40,8 +40,6 @@ Since 2019, I've been playing Dungeons and Dragons and various other games with 
 
 Reading
 ======
-Content
-
-I'm an avid reader, particularly enjoying fantasy, science fiction, history, and comedy. Recently, I read through Frank Herbert's Dune series, which was some of the most fun I've ever had reading. I've also gotten into audiobooks lately. Did you know the NY Public Library offers audiobooks? Highly recommended.
+I'm an avid reader, particularly enjoying fantasy, science fiction, history, and comedy. Recently, I read through Frank Herbert's Dune series, which was some of the most fun I've ever had reading. I've also gotten into audiobooks lately. Did you know the NY Public Library offers audiobooks? I'd highly recommend it.
 
 <img src="{{ "/images/Dune_series.jpeg" | relative_url }}" alt="Dune Series" width="300" height="300" class="centered-image">
