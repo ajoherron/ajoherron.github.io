@@ -1,6 +1,6 @@
 ---
 title: "Loan Default Prediction"
-excerpt: "For the final project of my Data Science in Finance course, I created a harness that was capable of cleaning over 1MM rows of real-world loan data and predicting the probability of default for new applicants. After much research into loan prediction modeling and experimental model comparison, I determined that an XGBoost model would have the best performance for the task. After evaluating all student's projects in a 'horserace,' my project was selected as a top 4 performer. 
+excerpt: "In my Finance Machine Learning course, I developed a robust data processing pipeline to clean 1 million rows of real-world loan data and predict probabilities of default for small companies. Through extensive research and experimentation with various models, I determined that XGBoost was the most effective for this task. Additionally, I found that clever feature engineering was particularly crucial for enhancing model predictions. My project was recognized as one of the top 4 performers in a competitive evaluation of all students' projects.
 
 <img src='/images/default_project.JPG' alt='Loan Default Project' width='500' height='500' style='display: block; margin: 0 auto;'>
 "
