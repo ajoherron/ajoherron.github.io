@@ -10,6 +10,6 @@ Blurb
 collection: portfolio
 ---
 
-[Machine Learning Optimization Report](/images/ml_optimization_report.pdf)
+[GitHub Repository](https://github.com/ajoherron/ML_Algorithm_Optimization)
 
-[Machine Learning Optimization GitHub Repository](https://github.com/ajoherron/ML_Algorithm_Optimization)
+[Report](/images/ml_optimization_report.pdf)
