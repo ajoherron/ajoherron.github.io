@@ -10,3 +10,5 @@ collection: portfolio
 ---
 
 [Next Word Prediction Report](/images/next_word_prediction_report.pdf)
+
+[Next Word Prediction GitHub Repository](https://github.com/ajoherron/LSTM_vs_Transformer_Word_Prediction)

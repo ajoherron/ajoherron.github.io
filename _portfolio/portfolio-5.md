@@ -11,3 +11,5 @@ collection: portfolio
 ---
 
 [Machine Learning Optimization Report](/images/ml_optimization_report.pdf)
+
+[Machine Learning Optimization GitHub Repository](https://github.com/ajoherron/ML_Algorithm_Optimization)

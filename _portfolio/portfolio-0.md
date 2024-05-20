@@ -10,3 +10,5 @@ collection: portfolio
 [X-Ray Computer Vision Report](/images/healthcare_project_report.pdf)
 
 [X-Ray Computer Vision Presentation](/images/Healthcare_Project_Presentation.pdf)
+
+[GitHub Repository](https://github.com/eugfomitcheva/diagnosing_respiratory_disease_cv)
