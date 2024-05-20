@@ -2,7 +2,7 @@
 title: "Machine Learning Algorithm Optimization"
 excerpt: "
 
-Blurb
+In my Advanced Python course, I developed logistic regression and decision tree algorithms from scratch, then optimized their speed while preserving accuracy. With logistic regression, I achieved nearly a 300-fold increase in speed by implementing stochastic gradient descent alongside NUMBA. For my decision tree model, I implemented a random feature subset approach, focusing on a subset rather than the entire feature set. Additionally, I introduced customizable settings to specify the number of features and values for our decision tree. These optimizations led to a remarkable 76-fold increase in speed.
 
 <img src='/images/ml_optimization_results.jpg' alt='Logistic Regression and Decision Tree Optimization Results' width='500' height='500' style='display: block; margin: 0 auto;'>
 "
