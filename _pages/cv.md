@@ -7,7 +7,13 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/images/Alex_Herron_Resume.jpg" width="100%" height="800px" style="border: none;"></iframe>
+
+![CV](../images/Alex_Herron_Resume.jpg)
+
+
+<img src="/images/earthshot_labs_square.jpg" alt="Earthshot Lab">
+
+<iframe src="images/Alex_Herron_Resume.jpg" width="100%" height="800px" style="border: none;"></iframe>
 
 <!-- <style>
   .centered-image {
