@@ -9,7 +9,7 @@ redirect_from:
 
 Film photography
 ======
-I've recently gotten into film photography, which has been lots of fun. You can see my work at <a href="https://35mm.steventammen.com"> ajoherron photography</a>
+I've recently gotten into film photography, which has been lots of fun. You can see my work at <a href="https://ajoherron.github.io/photography/index.html"> ajoherron photography</a>
 
 <img src="{{ "/images/tunnel.jpg" | relative_url }}" alt="Tunnel" width="500" height="500" class="centered-image">
 
