@@ -7,13 +7,11 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
 
-![CV](../images/Alex_Herron_Resume.jpg)
+![CV]({{ base_path }}/images/Alex_Herron_Resume.jpg)
 
-
-<img src="/images/earthshot_labs_square.jpg" alt="Earthshot Lab">
-
-<iframe src="images/Alex_Herron_Resume.jpg" width="100%" height="800px" style="border: none;"></iframe>
+<img src="{{ base_path }}/images/Alex_Herron_Resume.jpg" alt="Alex Herron CV" style="width:100%; max-height:800px;" />
 
 <!-- <style>
   .centered-image {
