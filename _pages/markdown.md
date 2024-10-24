@@ -9,7 +9,7 @@ redirect_from:
 
 Animal Enthusiast
 ======
-I have a lovely cat named Vlad. He enjoys playing fetch with index cards and disrupting my coding when it's almost his dinner time. Vlad has earned a well-deserved reputation as a world-class sleeper. Notably, he has a penchant for curling up in sinks, a skill that never fails to impress.
+I have a lovely cat named Vlad who particularly enjoys playing fetch with balled-up index cards. He's earned a well-deserved repuation as a world class sleeper, with a particular talent for turning any sink into a bed.
 
 <style>
   .centered-image {
@@ -22,13 +22,13 @@ I have a lovely cat named Vlad. He enjoys playing fetch with index cards and dis
 
 Running
 ======
-I really enjoy running, and back in the day I ran some pretty long runs. Back in 2017 I ran the perimeter of Manhattan (34.58 miles in 5:00:17 for an 8:41 min/mile pace). More recently, I ran an unorganized marathon along the Manhattan coastline in 3:29:48 for an 8:00 min/mile pace. These days, I prefer to run shorter, slower runs in various NYC parks.
+One of my favorite things is exploring NYC on foot. Some favorite memories include running Manhattan's perimeter (35 miles) and doing a solo marathon along its coastline. These days, you'll find me enjoying much shorter runs through the city's parks.
 
 <img src="{{ "/images/manhattan_loop.jpeg" | relative_url }}" alt="Manhattan Loop" width="300" height="200" class="centered-image">
 
-Cooking
+Cooking & Food
 ======
-I'm a big fan of cooking, finding restaurants, and generally anything food related. I try to explore new recipes often, and I think there are few better things than a good meal with good company. I think Tina Fey (as character Liz Lemon) said it best: "I believe that all anyone really wants in this life is to sit in peace and eat a sandwich." Here's some duck breasts I made this past holiday season.
+I think there are few things better than a good meal with good company. I love exploring both restaurants and recipes. I think Tina Fey said it best: "I believe that all anyone really wants in this life is to sit in peace and eat a sandwich."
 
 <img src="{{ "/images/duck_breast.jpeg" | relative_url }}" alt="Christmas Duck Breast" width="300" height="300" class="centered-image">
 
@@ -40,6 +40,6 @@ Since 2019, I've been playing Dungeons and Dragons and various other games with 
 
 Reading
 ======
-I'm an avid reader, particularly enjoying fantasy, science fiction, history, and comedy. Recently, I read through Frank Herbert's Dune series, which was some of the most fun I've ever had reading. I've also gotten into audiobooks lately. Did you know the NY Public Library offers audiobooks? I'd highly recommend it.
+I'm an avid reader, particularly enjoying fantasy and science fiction. Mostly recently, my favorite series have been Dune, A Song of Ice and Fire, and Lord of the Rings.
 
 <img src="{{ "/images/Dune_series.jpeg" | relative_url }}" alt="Dune Series" width="300" height="300" class="centered-image">
