@@ -9,7 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ site.baseurl }}/images/Alex_Herron_Resume.pdf" type="application/pdf" width="100%" height="800px">
-
-<!-- Alternative: direct link -->
-<p><a href="{{ site.baseurl }}/images/Alex Herron Resume.pdf" target="_blank">View/Download CV (PDF)</a></p>
+<iframe src="{{ site.baseurl }}/images/Alex_Herron_Resume.pdf" width="100%" height="800px" frameborder="0">
+</iframe>
