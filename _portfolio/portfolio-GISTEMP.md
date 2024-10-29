@@ -1,6 +1,8 @@
 ---
 title: "GISS Surface Temperature Anomaly Detection and Analysis (GISTEMP)"
-excerpt: <img src='/images/gistemp_spatial_faster.gif' alt='GISTEMP Spatial Plot' width='400' height='400' style='display: block; margin: 0 auto;'>
+excerpt: "The
+
+<img src='/images/gistemp_spatial_faster.gif' alt='GISTEMP Spatial Plot' width='400' height='400' style='display: block; margin: 0 auto;'>"
 collection: portfolio
 ---
 
