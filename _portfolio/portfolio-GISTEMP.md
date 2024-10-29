@@ -1,6 +1,6 @@
 ---
 title: "GISS Surface Temperature Anomaly Detection and Analysis (GISTEMP)"
-excerpt: "The
+excerpt: "Taking Earth's temperature faster and clearer.
 
 <img src='/images/gistemp_spatial.gif' alt='GISTEMP Spatial Plot' width='400' height='400' style='display: block; margin: 0 auto;'>"
 collection: portfolio

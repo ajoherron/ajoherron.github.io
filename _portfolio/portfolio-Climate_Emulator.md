@@ -1,6 +1,6 @@
 ---
 title: "ResNet-based Climate Model Emulator"
-excerpt: "The
+excerpt: "What if we could reduce climate model computation from months to minutes?
 
 <img src='/images/gistemp_spatial.gif' alt='GISTEMP Spatial Plot' width='400' height='400' style='display: block; margin: 0 auto;'>"
 collection: portfolio

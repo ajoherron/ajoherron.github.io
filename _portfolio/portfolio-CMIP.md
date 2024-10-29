@@ -1,6 +1,6 @@
 ---
 title: "Climate Model Processing Pipeline"
-excerpt: "The
+excerpt: "Making climate models speak the same language.
 
 <img src='/images/ModelE_logo.png' alt='ModelE Logo' width='400' height='400' style='display: block; margin: 0 auto;'>"
 collection: portfolio
