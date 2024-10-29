@@ -1,7 +1,7 @@
 ---
 title: "GISS Surface Temperature Anomaly Detection and Analysis (GISTEMP)"
 excerpt: "Taking Earth's temperature faster and clearer.
-
+<br>
 <img src='/images/gistemp_spatial.gif' alt='GISTEMP Spatial Plot' width='400' height='400' style='display: block; margin: 0 auto;'>"
 collection: portfolio
 ---
@@ -17,4 +17,4 @@ The visualization shows global temperature anomalies from 1880-2024, relative to
 
 [GISTEMP Website](https://data.giss.nasa.gov/gistemp/)
 
-<img src='/images/gistemp_spatial.gif' alt='GISTEMP Spatial Plot' width='400' height='400' style='display: block; margin: 0 auto;'>"
+<img src='/images/gistemp_spatial.gif' alt='GISTEMP Spatial Plot' width='800' height='800' style='display: block; margin: 0 auto;'>

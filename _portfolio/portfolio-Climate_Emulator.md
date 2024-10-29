@@ -1,8 +1,8 @@
 ---
 title: "ResNet-based Climate Model Emulator"
 excerpt: "What if we could reduce climate model computation from months to minutes?
-
-<img src='/images/gistemp_spatial.gif' alt='GISTEMP Spatial Plot' width='400' height='400' style='display: block; margin: 0 auto;'>"
+<br>
+<img src='/images/loss_plot.jpg' alt='Loss Plot' width='400' height='400' style='display: block; margin: 0 auto;'>"
 collection: portfolio
 ---
 
@@ -16,3 +16,5 @@ To address this issue, I've developed a ResNet-based model that emulates NASA's 
 - Reduced computation time from ~2 months to 5 minutes
 
 Although in early stages, this work has major implications for the role of deep learning in supplementing climate research.
+
+<img src='/images/loss_plot.jpg' alt='Loss Plot' width='400' height='400' style='display: block; margin: 0 auto;'>

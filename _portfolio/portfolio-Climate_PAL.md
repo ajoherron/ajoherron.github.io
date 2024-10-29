@@ -1,8 +1,7 @@
 ---
-title: "<div style='text-align: center;'>Climate PAL: Climate Analysis through Conversational AI</div>"
-
+title: "Climate PAL: Climate Analysis through Conversational AI"
 excerpt: "Making climate data accessible to everyone.
-
+<br>
 <img src='/images/Climate_PAL.png' alt='Climate PAL Diagram' width='400' height='400' style='display: block; margin: 0 auto;'>"
 collection: portfolio
 ---
@@ -20,4 +19,4 @@ Selected for presentation at both:
 - *Conference on Neural Information Processing Systems (NeurIPS)*
 - *American Geophysical Union (AGU) Fall Meeting*
 
-<img src='/images/Climate_PAL.png' alt='Climate PAL Diagram' width='400' height='400' style='display: block; margin: 0 auto;'>"
+<img src='/images/Climate_PAL.png' alt='Climate PAL Diagram' width='400' height='400' style='display: block; margin: 0 auto;'>
