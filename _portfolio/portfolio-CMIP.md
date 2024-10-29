@@ -13,3 +13,5 @@ I've created a pipeline that has automated our CMIP processing, reducing complet
 Additionally, as Data Curator at GISS, I'm responsible for the management of all our data (on the order of Petabytes). This includes what we publish to ESGF (Earth System Grid Federation), the primary platform for accessing and comparing climate model data worldwide.
 
 [ESGF Website](https://aims2.llnl.gov/search/cmip6/)
+
+<img src='/images/ModelE_logo.png' alt='ModelE Logo' width='400' height='400' style='display: block; margin: 0 auto;'>"

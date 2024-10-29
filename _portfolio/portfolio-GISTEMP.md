@@ -2,7 +2,7 @@
 title: "GISS Surface Temperature Anomaly Detection and Analysis (GISTEMP)"
 excerpt: "The
 
-<img src='/images/gistemp_spatial_faster.gif' alt='GISTEMP Spatial Plot' width='400' height='400' style='display: block; margin: 0 auto;'>"
+<img src='/images/gistemp_spatial.gif' alt='GISTEMP Spatial Plot' width='400' height='400' style='display: block; margin: 0 auto;'>"
 collection: portfolio
 ---
 
@@ -16,3 +16,5 @@ I've modernized GISTEMPv4 through:
 The visualization shows global temperature anomalies from 1880-2024, relative to the 1951-1980 baseline.
 
 [GISTEMP Website](https://data.giss.nasa.gov/gistemp/)
+
+<img src='/images/gistemp_spatial.gif' alt='GISTEMP Spatial Plot' width='400' height='400' style='display: block; margin: 0 auto;'>"

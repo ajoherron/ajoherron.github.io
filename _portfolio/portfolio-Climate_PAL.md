@@ -12,3 +12,5 @@ Climate PAL is a chat interface that makes researcher's lives easier and empower
 Selected for presentation at both:
 - *Conference on Neural Information Processing Systems (NeurIPS)*
 - *American Geophysical Union (AGU) Fall Meeting*
+
+<img src='/images/Climate_PAL.png' alt='Climate PAL Diagram' width='400' height='400' style='display: block; margin: 0 auto;'>"

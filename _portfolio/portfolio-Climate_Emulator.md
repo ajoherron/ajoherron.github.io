@@ -2,7 +2,7 @@
 title: "ResNet-based Climate Model Emulator"
 excerpt: "The
 
-<img src='/images/gistemp_spatial_faster.gif' alt='GISTEMP Spatial Plot' width='400' height='400' style='display: block; margin: 0 auto;'>"
+<img src='/images/gistemp_spatial.gif' alt='GISTEMP Spatial Plot' width='400' height='400' style='display: block; margin: 0 auto;'>"
 collection: portfolio
 ---
 
