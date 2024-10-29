@@ -1,8 +1,11 @@
 ---
-title: "Climate PAL: Climate Analysis through Conversational AI"
+title: "<div style='text-align: center;'>Climate PAL: Climate Analysis through Conversational AI</div>"
+
 excerpt: "<BLURB>
 
+<a href='/portfolio/portfolio-Climate_PAL'>
 <img src='/images/Climate_PAL.png' alt='Climate PAL Diagram' width='400' height='400' style='display: block; margin: 0 auto;'>
+</a>"
 "
 collection: portfolio
 ---
