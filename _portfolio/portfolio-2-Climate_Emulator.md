@@ -15,4 +15,6 @@ Although in early stages, this work has major implications for the role of deep 
 collection: portfolio
 ---
 
+[GitHub Repository](https://github.com/ajoherron/Neural-Network-Climate-Emulator)
+
 <img src='/images/loss_plot.jpg' alt='Loss Plot' width='400' height='400' style='display: block; margin: 0 auto;'>
