@@ -5,6 +5,8 @@ excerpt: "For the final project in my Natural Language Processing course, I repl
 <img src='/images/twitter_project.JPG' alt='Capstone Project' width='600' height='600' style='display: block; margin: 0 auto;'>
 "
 collection: portfolio
+categories:
+  - academic
 ---
 
 [Twitter Sentiment Report](/images/NLP_Report_Team_27.pdf)

@@ -5,6 +5,8 @@ excerpt: "During Fall 2022, I collaborated with Orbio Earth, an innovative start
 <img src='/images/capstone_project.JPG' alt='Capstone Project' width='500' height='500' style='display: block; margin: 0 auto;'>
 "
 collection: portfolio
+categories:
+  - academic
 ---
 
 [Methane Masking Report](/images/Capstone_Report_Group_10.pdf)

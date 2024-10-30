@@ -5,6 +5,8 @@ excerpt: "For my Computational Cognitive Modeling course,  I conducted a compara
 <img src='/images/next_word_prediction_examples.jpg' alt='Article Next Word Prediction Examples Project' width='500' height='500' style='display: block; margin: 0 auto;'>
 "
 collection: portfolio
+categories:
+  - academic
 ---
 
 [GitHub Repository](https://github.com/ajoherron/LSTM_vs_Transformer_Word_Prediction)

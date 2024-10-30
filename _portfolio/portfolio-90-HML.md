@@ -5,6 +5,8 @@ excerpt: "In my healthcare machine learning course, I undertook a project focuse
 <img src='/images/healthcare_project.jpeg' alt='Healthcare Project' width='400' height='400' style='display: block; margin: 0 auto;'>
 "
 collection: portfolio
+categories:
+  - academic
 ---
 
 [GitHub Repository](https://github.com/eugfomitcheva/diagnosing_respiratory_disease_cv)

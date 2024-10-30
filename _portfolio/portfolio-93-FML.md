@@ -5,6 +5,8 @@ excerpt: "In my Finance Machine Learning course, I developed a robust data proce
 <img src='/images/default_project.JPG' alt='Loan Default Project' width='500' height='500' style='display: block; margin: 0 auto;'>
 "
 collection: portfolio
+categories:
+  - academic
 ---
 
 [Loan Default Prediction Presentation](/images/loan_default_prediction_presentation.pdf)

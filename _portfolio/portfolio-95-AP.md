@@ -6,6 +6,8 @@ excerpt: "In my Advanced Python course, I developed logistic regression and deci
 "
 
 collection: portfolio
+categories:
+  - academic
 ---
 
 [GitHub Repository](https://github.com/ajoherron/ML_Algorithm_Optimization)
